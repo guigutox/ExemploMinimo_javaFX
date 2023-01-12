@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="ExemploMinimo_Tema1.jnlp">
+  <information>
+    <title>ExemploMinimo_Tema1</title>
+    <vendor>guilh</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="ExemploMinimo_Tema1.jar" size="3899" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="exemplominimo_tema1.ExemploMinimo_Tema1"  name="ExemploMinimo_Tema1" />
+  <update check="always"/>
+</jnlp>
